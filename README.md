@@ -1,5 +1,6 @@
 # Super-Store-Sales-Dashboard
 Super-Store Sales Dashboard in Power BI Platform
+
 "Unlock Your Sales Potential with Real-Time Insights: Power Up Your Strategy with Power BI Dashboard"
 
 I have created Super-Store Sales Dashboard using Power BI. With this dashboard, you'll have access to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on Time Series Analysis, to provide valuable insights and accurate Sales Forecasting.
