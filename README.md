@@ -7,8 +7,11 @@ I have created Super-Store Sales Dashboard using Power BI. With this dashboard, 
 
 Whether you're looking to analyze and learn this Project Learnings:-
 • Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
+
 • Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualizations and charts.
+
 • Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
+
 • End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
 
