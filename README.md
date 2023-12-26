@@ -16,12 +16,15 @@ Whether you're looking to analyze and learn this Project Learnings:-
 Sales Insights:
 
 • Report says goods were sold in the COD Payment mode with the higher percent 42.62 than Cards and Online.
+
 • Sales done by West region with highest percent of 33.67 than North, South and East. 
 
 • As per reports Goods bought by consumers segment nearly half of the percent than home office and corporate segments.
+
 • Buyers would prefer Standard Class rather than others.
 
 • Sales done in Office Supplies as per category than others.
+
 • Sales done in Chairs and Phones as per sub- category than others.
 
 
