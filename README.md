@@ -1,5 +1,4 @@
-# Super-Store-Sales-Dashboard
-Super-Store Sales Dashboard in Power BI Platform
+# Super-Store Sales Dashboard in Power BI Platform
 
 "Unlock Your Sales Potential with Real-Time Insights: Power Up Your Strategy with Power BI Dashboard"
 
